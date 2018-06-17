@@ -1,6 +1,6 @@
 Zeus维护者：<a href="mailto:yangf.sky@gmail.com">杨飞</a>  
 
-学习一下
+学习一下!
 
 
 ##宙斯(zeus)是什么
